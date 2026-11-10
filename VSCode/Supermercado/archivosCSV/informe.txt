@@ -1,0 +1,2 @@
+El producto de mayor valores es Vuvuzela
+El valor total de la bodega es 1900570

@@ -1,5 +1,3 @@
-import csv
-
 def productoMasCaro(productos):
     with open(productos, "r") as columna:
         mayor = 0
@@ -10,4 +8,5 @@ def productoMasCaro(productos):
             if mayor < precios:
                 mayor = precios
                 nomProducto = filas[1]
-        return print(f"El producto de mayor valores es: {nomProducto}")
+        
+        return f"El producto de mayor valores es {nomProducto}"
