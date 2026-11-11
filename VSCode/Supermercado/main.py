@@ -1,3 +1,8 @@
+#Integrantes: Ketlen Quispe, Luis Bustos 
+#Curso: 3D 
+#Fecha: 11-11-2026
+#Asignatura: Programación y Bases de Datos
+
 import funciones
 
 with open("informe.txt", "w") as informe:
